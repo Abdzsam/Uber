@@ -1,0 +1,7 @@
+/Users/abdzsam/Uber/src/main/java/com/example/uber/UberApplication.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/controller/RideController.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/dto/CreateRideRequest.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/dto/RideResponse.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/entity/Ride.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/entity/RideStatus.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/service/RideService.java
