@@ -39,7 +39,7 @@ public class RideController {
 
    @PatchMapping("/{id}/assign")
    public RideResponse assignRide(@PathVariable Long id){
-      return rideService.assigRide(id);
+      return rideService.assignRide(id);
    }
 
    @PatchMapping("/{id}/start")
