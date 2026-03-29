@@ -4,5 +4,7 @@
 /Users/abdzsam/Uber/src/main/java/com/example/uber/dto/RideResponse.java
 /Users/abdzsam/Uber/src/main/java/com/example/uber/entity/Ride.java
 /Users/abdzsam/Uber/src/main/java/com/example/uber/entity/RideStatus.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/messaging/RideEventConsumer.java
+/Users/abdzsam/Uber/src/main/java/com/example/uber/messaging/RideEventProducer.java
 /Users/abdzsam/Uber/src/main/java/com/example/uber/repository/RideRepository.java
 /Users/abdzsam/Uber/src/main/java/com/example/uber/service/RideService.java

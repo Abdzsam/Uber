@@ -1,0 +1,10 @@
+com/example/uber/controller/RideController.class
+com/example/uber/messaging/RideEventConsumer.class
+com/example/uber/repository/RideRepository.class
+com/example/uber/UberApplication.class
+com/example/uber/service/RideService.class
+com/example/uber/dto/CreateRideRequest.class
+com/example/uber/entity/RideStatus.class
+com/example/uber/dto/RideResponse.class
+com/example/uber/entity/Ride.class
+com/example/uber/messaging/RideEventProducer.class
